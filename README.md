@@ -1,5 +1,5 @@
-<h3 align="center">EXPRESS JS ES6 .</h3>
-<h3 align="center">Its express js full es6 javascript code .</h3>
+<h3 align="center">EXPRESS JS ES6</h3>
+<h3 align="center">Its express js full es6 javascript code</h3>
 
 <p align="left">
 </p>
